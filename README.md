@@ -3,6 +3,25 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Created branch `feature/session_4` from `develop` for Week 4 Programming Fundamental problems.
+- Implemented 5 algorithmic problems under package `programming_fundamental.class_problems`:
+  - `ProductOfArrayExceptSelf` (two-pass prefix and suffix product traversal in O(n))
+  - `MaximumSubarray` (Kadane's algorithm for contiguous maximum subarray sum in O(n))
+  - `ThreeSum` (sorted two-pointer search with duplicate avoidance in O(n^2))
+  - `SubarraySumEqualsK` (prefix sum accumulation with HashMap frequency counting in O(n))
+  - `FindMinRotatedSortedArray` (modified binary search on rotated sorted array in O(log n))
+
+**Next Session Plan:**
+- Work on Week 5 assignment / class problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Created branch `feature/session_3` from `develop` for Week 3 OOP Fundamental class problems.
 - Implemented 5 class problems under package `oop_fundamental.class_problems`:
   - `Student` (class definition, state encapsulation, direct field access)
