@@ -3,6 +3,25 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Created branch `feature/session_3` from `develop` for Week 3 OOP Fundamental class problems.
+- Implemented 5 class problems under package `oop_fundamental.class_problems`:
+  - `Student` (class definition, state encapsulation, direct field access)
+  - `HostelRoom` (independent instance state across objects)
+  - `LibraryCard` (reading Java default field values: null, 0, false)
+  - `Course` (parameterized constructor utilizing `this`)
+  - `Applicant` (static member tracking total instances across objects)
+
+**Next Session Plan:**
+- Work on Week 4 assignment / class problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Created branch `feature/session_2` from `develop` for Week 2 assignment problems.
 - Implemented 5 String Operations problems under package `string_operations.assigment_problems`:
   - `AtmPinLengthValidator` (PIN length validation)
