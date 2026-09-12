@@ -1,4 +1,4 @@
-package programming_fundamental.class_problems;
+package programming_fundamental.assigment_problems;
 
 import java.util.Arrays;
 
